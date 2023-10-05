@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158274912054",
+    "project_id": "home-mate-a7f7e",
+    "storage_bucket": "home-mate-a7f7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158274912054:android:793559bd1369b6625dfd97",
+        "android_client_info": {
+          "package_name": "com.example.home_mate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158274912054-frt00n8cm34v6tjcq6our44rr5sl3c2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlP2Qz_Zkv6FgBUGZPzv2qVID-0VeDOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158274912054-frt00n8cm34v6tjcq6our44rr5sl3c2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
